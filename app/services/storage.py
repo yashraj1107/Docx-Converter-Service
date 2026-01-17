@@ -33,7 +33,6 @@ class LocalStorageStrategy(StorageStrategy):
         return file_path
 
     def get_output_path(self, job_id: str) -> str:
-        # Returns the directory where PDFs should be saved
         output_dir = os.path.join(self._get_job_dir(job_id), "output")
         os.makedirs(output_dir, exist_ok=True)
         return output_dir

@@ -1,11 +1,11 @@
 fastapi
 uvicorn
-celery[redis]
+python-multipart
 sqlalchemy
 psycopg2-binary
-python-multipart
-aiofiles
+celery
+redis
+python-docx
+fpdf2
 pydantic-settings
-pytest
-httpx
-pydantic-settings
+jinja2
