@@ -2,7 +2,7 @@
 
 ## 🌐 Live Demo
 
-**Try it now:** [https://your-demo-url.com](https://docx.yashrajsawant.com/)
+**Try it now:** [https://docx.yashrajsawant.com/](https://docx.yashrajsawant.com/)
 
 ![Docx Converter Service Interface](demo.png)
 *Upload your .docx files and convert them to PDF with a simple, clean interface*
